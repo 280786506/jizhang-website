@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jizhang-website/static/css/main.8b58839f.chunk.css",
+    "main.js": "/jizhang-website/static/js/main.ecbe8a4b.chunk.js",
+    "main.js.map": "/jizhang-website/static/js/main.ecbe8a4b.chunk.js.map",
+    "runtime-main.js": "/jizhang-website/static/js/runtime-main.f57def50.js",
+    "runtime-main.js.map": "/jizhang-website/static/js/runtime-main.f57def50.js.map",
+    "static/css/2.d8ece26e.chunk.css": "/jizhang-website/static/css/2.d8ece26e.chunk.css",
+    "static/js/2.890d48a1.chunk.js": "/jizhang-website/static/js/2.890d48a1.chunk.js",
+    "static/js/2.890d48a1.chunk.js.map": "/jizhang-website/static/js/2.890d48a1.chunk.js.map",
+    "index.html": "/jizhang-website/index.html",
+    "static/css/2.d8ece26e.chunk.css.map": "/jizhang-website/static/css/2.d8ece26e.chunk.css.map",
+    "static/css/main.8b58839f.chunk.css.map": "/jizhang-website/static/css/main.8b58839f.chunk.css.map",
+    "static/js/2.890d48a1.chunk.js.LICENSE.txt": "/jizhang-website/static/js/2.890d48a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f57def50.js",
+    "static/css/2.d8ece26e.chunk.css",
+    "static/js/2.890d48a1.chunk.js",
+    "static/css/main.8b58839f.chunk.css",
+    "static/js/main.ecbe8a4b.chunk.js"
+  ]
+}
